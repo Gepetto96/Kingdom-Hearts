@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kingdom_hearts>
+    <title lang="es">Kingdom Hearts (キングダムハーツ Kingudamu Hātsu?)</title>
+    <description>
+        Serie de videojuegos perteneciente al género de juegos de rol de acción, desarrollado y publicado por Square Enix.
+    </description>
+    <collaboration>
+        <partners>
+            <partner>Square Enix</partner>
+            <partner>The Walt Disney Company</partner>
+        </partners>
+        <director>Tetsuya Nomura</director>
+    </collaboration>
+    <crossover>
+        <productions>
+            <production>Disney</production>
+            <production>Final Fantasy</production>
+        </productions>
+        <adaptation_info>
+            Adaptados al universo del juego, interactuando con personajes originales y entre sí.
+        </adaptation_info>
+    </crossover>
+    <focus>
+        <main_character>Sora</main_character>
+        <journey_description>
+            Recorre varios mundos, ya sean originales del juego o basados en escenarios de películas de Disney.
+        </journey_description>
+    </focus>
+    <success>
+        <critics_response>
+            Bien recibidos por la crítica.
+        </critics_response>
+        <commercial_success>
+            Gran éxito comercial.
+        </commercial_success>
+        <title_success_levels>
+            Cada título ha tenido diferentes niveles de éxito.
+        </title_success_levels>
+        <sales_info date="septiembre 2008">
+            <total_copies>12 millones</total_copies>
+            <region_copies>
+                <region name="PAL">2 millones</region>
+                <region name="Japón">3 millones</region>
+                <region name="Norteamérica">5.6 millones</region>
+            </region_copies>
+        </sales_info>
+    </success>
+</kingdom_hearts>
